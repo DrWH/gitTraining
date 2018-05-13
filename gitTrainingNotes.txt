@@ -1,0 +1,13 @@
+git training notes
+
+mkdir <dir name>
+git init	//initialises the new rep
+to check if it is a git directory type ll (ls -al). if it contains .git thats it. the dot before git means that it is a hidden directory
+also git status will confirm the same
+i should always use git status or as often as possible
+
+git add - A .	//adds all files
+if a wrong file eg file called wrong was added by mistake you can type
+git reset wrong
+the
+rm wrong	//will remove that file
